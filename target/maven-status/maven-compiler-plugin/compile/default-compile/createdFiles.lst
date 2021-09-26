@@ -1,8 +1,8 @@
-com/example/projects/ProjectsApplication.class
 com/example/projects/Service/UserService.class
 com/example/projects/Repository/FavouritePostRepository.class
 com/example/projects/Controller/CommentController.class
 com/example/projects/model/Post.class
+com/example/projects/DockerBlogApi.class
 com/example/projects/Service/ServiceImpl/FavoritePostServiceImpl.class
 com/example/projects/model/User.class
 com/example/projects/Controller/UserController.class
