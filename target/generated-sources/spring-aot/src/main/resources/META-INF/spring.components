@@ -1,0 +1,20 @@
+#
+#Sat Sep 25 02:02:29 WAT 2021
+com.example.projects.Repository.PostRepository=org.springframework.stereotype.Component,org.springframework.data.repository.Repository
+com.example.projects.Repository.PostLikeAndDislikeRepository=org.springframework.stereotype.Component,org.springframework.data.repository.Repository
+com.example.projects.ProjectsApplication=org.springframework.stereotype.Component,org.springframework.boot.SpringBootConfiguration
+com.example.projects.Repository.CommentRepository=org.springframework.stereotype.Component,org.springframework.data.repository.Repository
+com.example.projects.model.User=javax.persistence.Entity,javax.persistence.Table
+com.example.projects.Repository.FavouritePostRepository=org.springframework.stereotype.Component,org.springframework.data.repository.Repository
+com.example.projects.Service.ServiceImpl.PostServiceImpl=org.springframework.stereotype.Component
+com.example.projects.model.PostLikeAndDislike=javax.persistence.Entity,javax.persistence.Table
+com.example.projects.Controller.PostController=org.springframework.stereotype.Component
+com.example.projects.Service.UserService=org.springframework.stereotype.Component
+com.example.projects.Service.ServiceImpl.UserServiceImpl=org.springframework.stereotype.Component
+com.example.projects.Controller.CommentController=org.springframework.stereotype.Component
+com.example.projects.Service.ServiceImpl.CommentServiceImpl=org.springframework.stereotype.Component
+com.example.projects.Controller.UserController=org.springframework.stereotype.Component
+com.example.projects.model.Comments=javax.persistence.Entity,javax.persistence.Table
+com.example.projects.model.Post=javax.persistence.Entity,javax.persistence.Table
+com.example.projects.model.FavoritePost=javax.persistence.Entity,javax.persistence.Table
+com.example.projects.Repository.UserRepository=org.springframework.stereotype.Component,org.springframework.data.repository.Repository
